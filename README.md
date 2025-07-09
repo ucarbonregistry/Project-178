@@ -57,3 +57,27 @@ Company /Capacity/ WTG ID no./ Commissioning date
 ___________
 M/S Vijay Mamra Pvt. Ltd./ 1 x 2 MW /GMG/2000/18-19/5239 /28/03/2019
 _________________
+ISSUANCE DATE: 09/07/2025
+
+QTY: 10054
+
+MP-01: 28/03/2019-31/12/2021
+_____________
+Serial Number: 0001-000001-003203-UCR-CoU-IN-178-28032019-31122019
+
+Vintage Year: 2019
+
+Quantity: 3203
+____________
+Serial Number: 0001-003204-006566-UCR-CoU-IN-178-01012020-31122020
+
+Vintage Year: 2020
+
+Quantity: 3363
+____________
+Serial Number: 0001-006567-010054-UCR-CoU-IN-178-01012021-31122021
+
+Vintage Year: 2021
+
+Quantity: 3488
+__________
